@@ -148,7 +148,7 @@ Therefore, Logistic Regression was selected as the best-performing model for thi
 This folder contains:
 
 * `Iris_Flower_Classification.ipynb` — Jupyter/Colab notebook containing the complete analysis and machine learning implementation.
-* `Iris_Project_Cover.png` — Project title/cover image.
+* `p1.png` — Project title/cover image.
 
 ## Conclusion
 
